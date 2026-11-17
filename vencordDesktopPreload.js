@@ -1,4 +1,4 @@
-// Vencord fb46142
+// Vencord 362b387
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
