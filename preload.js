@@ -1,4 +1,4 @@
-// Vencord 7e3421a
+// Vencord c1c525a
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
