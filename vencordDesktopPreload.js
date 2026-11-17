@@ -1,4 +1,4 @@
-// Vencord ab2f719
+// Vencord 6957e16
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
