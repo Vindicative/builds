@@ -1,4 +1,4 @@
-// Vencord c1c525a
+// Vencord 2726976
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
