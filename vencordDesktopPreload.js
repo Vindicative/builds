@@ -1,4 +1,4 @@
-// Vencord c51c280
+// Vencord 7e3421a
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
