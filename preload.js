@@ -1,4 +1,4 @@
-// Vencord bca5ce3
+// Vencord 36956ca
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
