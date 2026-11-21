@@ -1,4 +1,4 @@
-// Vencord 36956ca
+// Vencord b983edb
 // Standalone: true
 // Platform: Universal
 // Updater Disabled: false
